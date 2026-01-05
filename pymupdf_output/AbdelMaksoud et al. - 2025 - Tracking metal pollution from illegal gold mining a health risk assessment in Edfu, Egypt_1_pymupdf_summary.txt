@@ -1,0 +1,26 @@
+============================================================
+PYMUPDF PDF EXTRACTION SUMMARY
+============================================================
+
+METADATA
+------------------------------------------------------------
+filename................................ AbdelMaksoud et al. - 2025 - Tracking metal pollution from illegal gold mining a health risk assessment in Edfu, Egypt_1.pdf
+filepath................................ /Users/sumanth/Desktop/KG_scratch/input/AbdelMaksoud et al. - 2025 - Tracking metal pollution from illegal gold mining a health risk assessment in Edfu, Egypt_1.pdf
+file_size_mb............................ 4.37863826751709
+page_count.............................. 20
+extraction_timestamp.................... 2025-12-16T22:32:37.937235
+extraction_method....................... PyMuPDF
+title................................... 
+author.................................. 
+subject................................. 
+creator................................. Adobe InDesign 18.3 (Windows)
+producer................................ Adobe PDF Library 17.0; modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+creation_date........................... D:20250414091013-04'00'
+modification_date....................... D:20250414091013-04'00'
+
+EXTRACTION STATISTICS
+------------------------------------------------------------
+Total Elements:........ 403
+Text Blocks:........... 376
+Tables:................ 15
+Images:................ 12
